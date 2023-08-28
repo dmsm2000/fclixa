@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/fclixa/static/css/main.26d37fca.css",
-    "main.js": "/fclixa/static/js/main.423db309.js",
+    "main.css": "/fclixa/static/css/main.126cbefb.css",
+    "main.js": "/fclixa/static/js/main.a3675682.js",
     "static/js/787.97eef614.chunk.js": "/fclixa/static/js/787.97eef614.chunk.js",
     "static/media/player.jpg": "/fclixa/static/media/player.ec9aa41aedff7e82cd6a.jpg",
     "static/media/team_logo.png": "/fclixa/static/media/team_logo.09a5ff6c4d1dcb83e9d5.png",
     "static/media/hero.jpg": "/fclixa/static/media/hero.59e7ae44f3c8d7939a2c.jpg",
     "index.html": "/fclixa/index.html",
-    "main.26d37fca.css.map": "/fclixa/static/css/main.26d37fca.css.map",
-    "main.423db309.js.map": "/fclixa/static/js/main.423db309.js.map",
+    "main.126cbefb.css.map": "/fclixa/static/css/main.126cbefb.css.map",
+    "main.a3675682.js.map": "/fclixa/static/js/main.a3675682.js.map",
     "787.97eef614.chunk.js.map": "/fclixa/static/js/787.97eef614.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.26d37fca.css",
-    "static/js/main.423db309.js"
+    "static/css/main.126cbefb.css",
+    "static/js/main.a3675682.js"
   ]
 }
