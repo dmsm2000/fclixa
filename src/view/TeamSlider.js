@@ -30,7 +30,7 @@ const TeamSlider = () => {
 
   return (
     <div ref={ref} className="fade-in">
-      <div className="xl:m-20 md:m-10">
+      <div className="xl:m-20 md:m-10 s:mt-10">
         <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl text-center">
           Conheça a equipa
         </h2>
